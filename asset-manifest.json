@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/moban/static/js/main.88433c66.chunk.js",
+    "main.js.map": "/moban/static/js/main.88433c66.chunk.js.map",
+    "runtime-main.js": "/moban/static/js/runtime-main.d714977e.js",
+    "runtime-main.js.map": "/moban/static/js/runtime-main.d714977e.js.map",
+    "static/css/2.a95be28f.chunk.css": "/moban/static/css/2.a95be28f.chunk.css",
+    "static/js/2.cacae3d3.chunk.js": "/moban/static/js/2.cacae3d3.chunk.js",
+    "static/js/2.cacae3d3.chunk.js.map": "/moban/static/js/2.cacae3d3.chunk.js.map",
+    "static/js/3.ceb096db.chunk.js": "/moban/static/js/3.ceb096db.chunk.js",
+    "static/js/3.ceb096db.chunk.js.map": "/moban/static/js/3.ceb096db.chunk.js.map",
+    "index.html": "/moban/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/moban/static/css/2.a95be28f.chunk.css.map",
+    "static/js/2.cacae3d3.chunk.js.LICENSE.txt": "/moban/static/js/2.cacae3d3.chunk.js.LICENSE.txt",
+    "static/media/Battle_Item_01_8.b67bea8c.png": "/moban/static/media/Battle_Item_01_8.b67bea8c.png",
+    "static/media/Use_4_14.4e826f0b.png": "/moban/static/media/Use_4_14.4e826f0b.png",
+    "static/media/Use_8_47.d83116be.png": "/moban/static/media/Use_8_47.d83116be.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d714977e.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.cacae3d3.chunk.js",
+    "static/js/main.88433c66.chunk.js"
+  ]
+}
